@@ -24,8 +24,11 @@ const experiences: Experience[] = [
     tag: 'AI Infrastructure',
     color: '#01A982',
     details: [
-      'Lead field enablement and technical content across the mid-funnel for HPE Private Cloud AI, equipping sellers and partners to position private AI infrastructure with enterprise buyers.',
-      'Build and present live product demos at NVIDIA GTC and other industry events.',
+      'Own technical marketing for HPE Private Cloud AI, translating private AI infrastructure into clear, credible value for enterprise buyers and technical decision-makers.',
+      'Lead field enablement across the mid-funnel, equipping sellers and partners with the content, training, and tools to position and win private AI deals.',
+      'Develop reference architectures that show how HPE Private Cloud AI supports real enterprise AI workloads.',
+      'Build product demos and present them live at NVIDIA GTC and other industry events.',
+      'Drive narrative development for the platform, shaping the story, positioning, and messaging used across launches, events, and sales conversations.',
       'Co-presented HPE and Equinix at AI Infrastructure Field Day 6 with Elias Alagna and Jason Lee, introducing a framework for AI tokenomics: make every token count, pay less per token, and govern every token.',
       'Authored "Stop counting tokens, start counting what ships" in MIT Technology Review, on measuring agentic AI by what reaches production rather than by token spend.'
     ]
