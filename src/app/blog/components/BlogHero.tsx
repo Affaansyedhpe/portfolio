@@ -27,7 +27,7 @@ export function BlogHero() {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.8 }}
         >
-          Thoughts & Ideas
+          Writing & Talks
         </motion.h1>
         <motion.p
           className="mx-auto max-w-2xl text-lg text-zinc-300"
@@ -35,8 +35,8 @@ export function BlogHero() {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.4, duration: 0.8 }}
         >
-          My collected thoughts on design, development, and everything in
-          between.
+          Articles and presentations on AI infrastructure, agentic AI, and
+          taking AI products to market.
         </motion.p>
       </div>
     </motion.div>

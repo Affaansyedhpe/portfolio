@@ -82,28 +82,19 @@ export default function About() {
               <div className="flex flex-col gap-10">
                 <div className="text-primary-950/70 dark:text-primary-200/70 space-y-8">
                   <p className="text-2xl font-semibold">
-                    Product Marketing Manager with 4+ years in B2B SaaS go-to-market strategy. Led 0→1 launches for two AI products, driving enterprise client acquisition and pipeline growth.
+                    Product Marketer and Technical Marketing Manager with 6 years of B2B experience and a Computer Science engineering background. MBA in Business Analytics.
                   </p>
                   <p className="text-lg sm:text-xl">
-                    Technical background (Computer Science Engineering from Osmania University + MBA in Business Analytics from Midwestern State University) enables collaboration on complex AI/ML products and translation for sales audiences.
+                    Currently Technical Marketing Manager for HPE Private Cloud AI, leading field enablement and technical content across the mid-funnel. I build and present product demos at NVIDIA GTC and other industry events.
                   </p>
                   <p className="text-lg sm:text-xl">
-                    At Hoegger Communications, I lead product marketing and go-to-market strategy for two B2B SaaS AI products (SEO Alchemy, Vision Studio), partnering with Product, Engineering, and Sales teams to define requirements, influence roadmap through market intelligence, and execute launches for technical and enterprise audiences.
+                    Previously led 0-to-1 go-to-market strategy for two B2B AI products, owning ABM, ICP definition, positioning, messaging, competitive intelligence, sales enablement, and demand generation.
                   </p>
                   <p className="text-lg sm:text-xl">
-                    I architect AI marketing automation for 38+ e-commerce brands, integrating content generation tools and analytics platforms. I manage campaigns and customer acquisition for 68+ FEC and entertainment brands, leveraging behavioral analytics to optimize messaging and creative strategy, achieving 79% above 2025 FEC industry YoY benchmarks.
+                    Recognized with 7 American Advertising Awards (ADDYs 2024, Fort Worth) for performance marketing, campaign optimization, and creative execution.
                   </p>
                   <p className="text-lg sm:text-xl">
-                    My work has been recognized with 7 American Advertising Awards in Fort Worth for excellence in performance marketing, data-driven campaign optimization, customer segmentation strategy, and creative execution across digital advertising channels.
-                  </p>
-                  <p className="text-lg sm:text-xl">
-                    I also serve as an Adjunct Professor teaching Promotions Management at Midwestern State University, where I bring real-world marketing strategy and analytics into the classroom.
-                  </p>
-                  <p className="text-lg sm:text-xl">
-                    Previously at Kerr Industries, I developed product positioning and content strategy for YouTube and TikTok channels across international markets, driving global customer acquisition using Excel, Tableau, SQL, and Python to analyze audience segmentation and optimize campaign targeting.
-                  </p>
-                  <p className="text-lg sm:text-xl">
-                    Customer-obsessed approach to product marketing with focus on solving real customer problems through positioning and messaging. Proven ability to influence cross-functional stakeholders and drive results in ambiguous 0→1 launch environments.
+                    Orchestrated agentic systems on reasoning models (Claude Opus 4.7, Grok 4, GPT-5.4) using LangChain in Python, wired into Pendo, Gong, Fathom, Clay, and Apollo. Reporting layer in Power BI and Tableau. Deployed on Supabase and Railway. Shipped production code alongside engineering and product.
                   </p>
                 </div>
               </div>

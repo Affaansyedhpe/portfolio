@@ -14,10 +14,6 @@ const links = [
     href: '/about'
   },
   {
-    title: 'experiences',
-    href: '/projects'
-  },
-  {
     title: 'blog',
     href: '/blog'
   },

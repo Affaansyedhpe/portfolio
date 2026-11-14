@@ -12,11 +12,11 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: {
-    default: 'Affan Syed | Product Marketing Manager | B2B SaaS',
+    default: 'Affan Syed | Technical Marketing Manager & Product Marketer | B2B AI',
     template: '%s | Affan Syed'
   },
-  description: 'Affan Syed is a Product Marketing Manager with 4+ years in B2B SaaS go-to-market strategy. Led 0→1 launches for two AI products, driving enterprise client acquisition and pipeline growth. 7× American Advertising Award Winner. Technical background (CS + MBA Analytics) enables collaboration on complex AI/ML products. Expert in product launches, sales enablement, competitive intelligence, and strategic positioning.',
-  keywords: ['Affan Syed', 'Affan Syed Mahmood Hussain', 'Product Marketing Manager', 'B2B SaaS Marketing', 'Go-to-Market Strategy', 'GTM Strategy', 'Product Launch', 'Sales Enablement', 'Technical Product Marketing', 'Competitive Intelligence', 'Product Positioning', 'AI Products', 'B2B Marketing', 'SaaS Marketing', 'Product Marketing', 'American Advertising Awards', 'Wichita Falls Texas', 'Osmania University', 'Midwestern State University', 'Fort Worth ADDYs', 'Product Marketing Texas', 'Enterprise Marketing'],
+  description: 'Affan Syed is a Product Marketer and Technical Marketing Manager with 6 years of B2B experience and a Computer Science engineering background, leading go-to-market, field enablement, and technical content for AI products. 7× American Advertising Award winner.',
+  keywords: ['Affan Syed', 'Affan Syed Mahmood Hussain', 'Technical Marketing Manager', 'Product Marketer', 'Product Marketing Manager', 'Technical Product Marketing', 'B2B AI Marketing', 'Go-to-Market Strategy', 'GTM Strategy', 'Field Enablement', 'Sales Enablement', 'Technical Content', 'Product Demos', 'Positioning and Messaging', 'Competitive Intelligence', 'Account-Based Marketing', 'ABM', 'ICP Definition', 'Demand Generation', 'Agentic AI', 'LangChain', 'Private Cloud AI', 'B2B Marketing', 'Enterprise Marketing', 'American Advertising Awards', 'ADDY Award Winner', 'Fort Worth ADDYs'],
   authors: [{ name: 'Affan Syed', url: 'https://affansyed.com' }],
   creator: 'Affan Syed',
   publisher: 'Affan Syed',
@@ -28,22 +28,22 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://affansyed.com',
-    title: 'Affan Syed | Product Marketing Manager | B2B SaaS',
-    description: 'Product Marketing Manager with 4+ years in B2B SaaS go-to-market strategy. Led 0→1 launches for two AI products, driving enterprise client acquisition and pipeline growth.',
+    title: 'Affan Syed | Technical Marketing Manager & Product Marketer | B2B AI',
+    description: 'Product Marketer and Technical Marketing Manager with 6 years of B2B experience. Taking AI products to market through positioning, enablement, and technical content.',
     siteName: 'Affan Syed Portfolio',
     images: [
       {
         url: '/images/profile2.jpg',
         width: 1200,
         height: 630,
-        alt: 'Affan Syed - Product Marketing Manager',
+        alt: 'Affan Syed - Technical Marketing Manager and Product Marketer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Affan Syed | Product Marketing Manager | B2B SaaS',
-    description: 'Product Marketing Manager with 4+ years in B2B SaaS go-to-market strategy. Led 0→1 launches for two AI products, driving enterprise client acquisition and pipeline growth.',
+    title: 'Affan Syed | Technical Marketing Manager & Product Marketer | B2B AI',
+    description: 'Product Marketer and Technical Marketing Manager with 6 years of B2B experience. Taking AI products to market through positioning, enablement, and technical content.',
     images: ['/images/profile2.jpg'],
     creator: '@Affansyed321',
   },
@@ -87,7 +87,7 @@ export default function RootLayout({
         "url": "https://affansyed.com/images/profile2.jpg",
         "width": 400,
         "height": 400,
-        "caption": "Affan Syed - Product Marketing Manager"
+        "caption": "Affan Syed - Technical Marketing Manager and Product Marketer"
       },
       "sameAs": [
         "https://x.com/Affansyed321",
@@ -98,35 +98,31 @@ export default function RootLayout({
       "identifier": {
         "@type": "PropertyValue",
         "propertyID": "affansyed.com",
-        "value": "Product Marketing Manager Affan Syed"
+        "value": "Technical Marketing Manager Affan Syed"
       },
-      "jobTitle": ["Product Marketing Manager", "Technical Product Marketer", "Marketing Strategist"],
-      "description": "Affan Syed is a Product Marketing Manager with 4+ years in B2B SaaS go-to-market strategy. Led 0→1 launches for two AI products, driving enterprise client acquisition and pipeline growth. 7× American Advertising Award Winner.",
-      "disambiguatingDescription": "Product Marketing Manager from Wichita Falls, Texas, known for B2B SaaS product launches and American Advertising Awards.",
+      "jobTitle": ["Technical Marketing Manager", "Product Marketer", "Product Marketing Manager"],
+      "description": "Affan Syed is a Product Marketer and Technical Marketing Manager with 6 years of B2B experience and a Computer Science engineering background, leading go-to-market, field enablement, and technical content for AI products. 7× American Advertising Award winner.",
+      "disambiguatingDescription": "Technical Marketing Manager and Product Marketer in Texas focused on taking B2B AI products to market.",
       "knowsAbout": [
         "Product Marketing",
+        "Technical Marketing",
         "Go-to-Market Strategy",
-        "B2B SaaS Marketing",
-        "Product Launch Strategy",
+        "Field Enablement",
         "Sales Enablement",
+        "Technical Content",
+        "Product Demos",
+        "Positioning and Messaging",
         "Competitive Intelligence",
-        "Product Positioning",
-        "Strategic Messaging",
-        "Technical Product Marketing",
-        "Cross-Functional Collaboration",
-        "Market Research",
-        "Customer Segmentation",
-        "Battle Cards",
-        "Product-Market Fit",
+        "Account-Based Marketing",
+        "ICP Definition",
+        "Demand Generation",
         "AI Products",
-        "Marketing Technology",
-        "Data Analytics",
-        "Creator Economy",
-        "Tableau",
-        "Excel",
-        "SQL",
+        "Agentic AI Systems",
+        "LangChain",
         "Python",
-        "Video Editing",
+        "Power BI",
+        "Tableau",
+        "Supabase",
         "Podcast Hosting"
       ],
       "hasCredential": [
@@ -141,6 +137,10 @@ export default function RootLayout({
           },
           "dateCreated": "2024"
         }
+      ],
+      "award": [
+        "7× American Advertising Awards Winner (2024)",
+        "Fort Worth ADDYs 2024 Winner"
       ],
       "alumniOf": [
         {
@@ -160,27 +160,15 @@ export default function RootLayout({
           }
         }
       ],
-      "worksFor": [
-        {
-          "@type": "Organization",
-          "name": "Hoegger Communications",
-          "description": "Product Marketing Manager leading go-to-market strategy for B2B SaaS AI products"
-        },
-        {
-          "@type": "Organization",
-          "name": "Kerr Industries",
-          "description": "Associate Product Marketing Manager & Marketing Analyst (March 2021–December 2023)"
-        }
-      ],
-      "award": [
-        "7× American Advertising Awards Winner (2024)",
-        "Fort Worth ADDYs 2024 Winner"
-      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Hewlett Packard Enterprise",
+        "url": "https://www.hpe.com"
+      },
       "address": {
         "@type": "PostalAddress",
         "addressRegion": "TX",
-        "addressCountry": "US",
-        "addressLocality": "Wichita Falls"
+        "addressCountry": "US"
       },
       "nationality": "American"
     },
@@ -190,7 +178,7 @@ export default function RootLayout({
       "@id": "https://affansyed.com/#website",
       "url": "https://affansyed.com",
       "name": "Affan Syed Portfolio",
-      "description": "Official website of Affan Syed - Product Marketing Manager and B2B SaaS Specialist",
+      "description": "Official website of Affan Syed - Technical Marketing Manager and Product Marketer for B2B AI",
       "publisher": {
         "@id": "https://affansyed.com/#person"
       },

@@ -73,7 +73,7 @@ export default function ContactInfo() {
         <div className="mt-28 flex flex-col justify-between p-5 2xs:mt-60 sm:mx-[100px] sm:mt-56 sm:flex-row sm:items-end">
           <div className="mb-5 sm:mb-0">
             <p className="min-w-screen text-base sm:max-w-xs">
-              Product Marketing Manager | B2B SaaS Specialist | 7× American Advertising Award Winner | Creator & Podcast Host
+              Product Marketer | Technical Marketing Manager | 7× American Advertising Award Winner | Creator & Podcast Host
             </p>
           </div>
           <div className="flex items-end gap-2">
@@ -81,7 +81,7 @@ export default function ContactInfo() {
               <h3 className="m-0 cursor-default p-1 text-base font-light text-gray-500">
                 Version
               </h3>
-              <p className="relative m-0 cursor-pointer p-1">2025 © Edition</p>
+              <p className="relative m-0 cursor-pointer p-1">2026 © Edition</p>
             </span>
             <span className="flex flex-col gap-3">
               <h3 className="m-0 cursor-default p-1 text-base font-light text-gray-500">

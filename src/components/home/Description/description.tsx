@@ -6,12 +6,12 @@ import Link from 'next/link';
 
 export default function Description() {
   const phrase1 =
-    'A Product Marketing Manager specializing in B2B SaaS go-to-market strategy and technical product marketing.\n\n ';
+    'Product Marketer and Technical Marketing Manager with a Computer Science engineering background.\n\n ';
 
   const phrase2 =
-    'Driving 0→1 product launches through strategic positioning, sales enablement, and ' +
-    'cross-functional collaboration. I bridge Product, Engineering, and Sales to bring ' +
-    'AI products to market and unlock enterprise revenue.';
+    'Six years in B2B, taking AI products to market through positioning, messaging, ' +
+    'enablement, and demand generation, and building the agentic systems ' +
+    'that power the work.';
   const description = useRef(null);
   const isInView = useInView(description);
 
@@ -60,16 +60,15 @@ export default function Description() {
           animate={isInView ? 'open' : 'closed'}
           className="m-0 pb-3 font-light sm:text-lg"
         >
-          Currently a Product Marketing Manager leading go-to-market strategy for B2B SaaS AI products, from positioning to launch to sales enablement.
+          Currently Technical Marketing Manager for HPE Private Cloud AI, leading field enablement and technical content across the mid-funnel.
         </motion.p>
         <motion.p
           variants={opacity}
           animate={isInView ? 'open' : 'closed'}
           className="m-0 text-lg font-light"
         >
-          My work has been recognized with 7 American Advertising Awards (ADDYs 2024,
-          Fort Worth), and I am always exploring new ways to combine creativity and
-          technology to make a meaningful impact.
+          Previously led 0-to-1 go-to-market for two B2B AI products. My work has been
+          recognized with 7 American Advertising Awards (ADDYs 2024, Fort Worth).
         </motion.p>
         <div data-scroll-speed={0.1}>
           <Link href={'/about'}>

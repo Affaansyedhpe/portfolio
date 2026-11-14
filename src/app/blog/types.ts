@@ -3,6 +3,7 @@ import { z } from 'zod';
 export const blogPostSchema = z.object({
   id: z.string(),
   title: z.string(),
+  source: z.string().optional(),
   content: z.string(),
   url: z.string().url(),
   publishedAt: z.string(),

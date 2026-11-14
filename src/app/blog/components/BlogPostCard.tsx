@@ -55,6 +55,11 @@ export function BlogPostCard({ post, index }: BlogPostCardProps) {
           ) : null}
 
           <div className="p-6">
+            {post.source && (
+              <p className="mb-2 text-sm font-medium uppercase tracking-wide text-muted-foreground">
+                {post.source}
+              </p>
+            )}
             <h2 className="mb-4 text-2xl font-bold leading-tight">
               {post.title}
             </h2>

@@ -7,7 +7,7 @@
       "name": "Who is Affan Syed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Affan Syed is a Product Marketing Manager with 4+ years in B2B SaaS go-to-market strategy. He led 0→1 launches for two AI products, driving enterprise client acquisition and pipeline growth. He is a 7× American Advertising Award Winner."
+        "text": "Affan Syed is a Product Marketer and Technical Marketing Manager with 6 years of B2B experience, a Computer Science engineering background, and an MBA in Business Analytics."
       }
     },
     {
@@ -15,7 +15,15 @@
       "name": "What does Affan Syed do?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Affan Syed works as a Product Marketing Manager, leading go-to-market strategy for B2B SaaS AI products. He partners with Product, Engineering, and Sales teams to drive product launches through strategic positioning, competitive battle cards, and sales enablement materials."
+        "text": "Affan Syed is Technical Marketing Manager for HPE Private Cloud AI, leading field enablement and technical content across the mid-funnel, and building and presenting product demos at NVIDIA GTC and other industry events."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Affan Syed's go-to-market experience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Affan Syed led 0-to-1 go-to-market strategy for two B2B AI products, owning ABM, ICP definition, positioning, messaging, competitive intelligence, sales enablement, and demand generation."
       }
     },
     {
@@ -23,31 +31,15 @@
       "name": "What awards has Affan Syed won?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Affan Syed has won 7 American Advertising Awards (ADDYs) in 2024 from Fort Worth. These awards recognize excellence in advertising and marketing campaigns, showcasing his expertise in creative marketing strategies."
+        "text": "Affan Syed has won 7 American Advertising Awards (ADDYs) in 2024 from Fort Worth, recognizing excellence in performance marketing, campaign optimization, and creative execution."
       }
     },
     {
       "@type": "Question",
-      "name": "What is Affan Syed's educational background?",
+      "name": "What technical work does Affan Syed do?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Affan Syed has a Computer Science Engineering degree from Osmania University and an MBA in Business Analytics from Midwestern State University. This combination gives him both technical and business expertise in marketing and AI systems."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Where is Affan Syed located?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Affan Syed is based in Wichita Falls, Texas, United States. He works remotely on various marketing projects."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is Affan Syed's experience in marketing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Affan Syed has 4+ years of experience in product marketing, working as a Product Marketing Manager at Hoegger Communications and previously as an Associate Product Marketing Manager & Marketing Analyst at Kerr Industries (March 2021–December 2023). He specializes in B2B SaaS go-to-market strategy, product launches, and sales enablement."
+        "text": "Affan Syed orchestrates agentic systems on reasoning models using LangChain in Python, integrated with tools like Pendo, Gong, Clay, and Apollo, with reporting in Power BI and Tableau. Affan has shipped production code alongside engineering and product teams."
       }
     }
   ]
