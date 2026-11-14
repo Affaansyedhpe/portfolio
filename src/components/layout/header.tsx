@@ -82,6 +82,9 @@ export default function Header() {
                 <Magnetic>
                   <Link href={'/about'}>About</Link>
                 </Magnetic>
+                <Magnetic>
+                  <Link href={'/projects'}>Experiences</Link>
+                </Magnetic>
               </div>
             </div>
             <div className="group relative z-10 flex cursor-pointer flex-col p-3">

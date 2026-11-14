@@ -9,6 +9,17 @@ import { ModalContext } from './modalContext';
 
 const experiences = [
   {
+    title: 'Technical Marketing Manager',
+    company: 'Hewlett Packard Enterprise · HPE Private Cloud AI',
+    tag: 'AI Infrastructure',
+    color: '#01A982',
+    details: [
+      'Lead field enablement and technical content across the mid-funnel for HPE Private Cloud AI.',
+      'Build and present product demos at NVIDIA GTC and other industry events.',
+      'Co-presented HPE and Equinix at AI Infrastructure Field Day 6, a practical framework for AI tokenomics.'
+    ]
+  },
+  {
     title: 'Product Marketing Manager',
     company: 'Hoegger Communications',
     location: 'Wichita Falls, TX',
