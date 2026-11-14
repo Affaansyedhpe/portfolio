@@ -7,16 +7,27 @@ import Modal from '@/app/projects/project/modal';
 import Layout from '@/components/layout';
 import { ModalContext } from './modalContext';
 
-const experiences = [
+type Experience = {
+  title: string;
+  company: string;
+  tag: string;
+  color: string;
+  location?: string;
+  duration?: string;
+  details?: string[];
+};
+
+const experiences: Experience[] = [
   {
     title: 'Technical Marketing Manager',
     company: 'Hewlett Packard Enterprise · HPE Private Cloud AI',
     tag: 'AI Infrastructure',
     color: '#01A982',
     details: [
-      'Lead field enablement and technical content across the mid-funnel for HPE Private Cloud AI.',
-      'Build and present product demos at NVIDIA GTC and other industry events.',
-      'Co-presented HPE and Equinix at AI Infrastructure Field Day 6, a practical framework for AI tokenomics.'
+      'Lead field enablement and technical content across the mid-funnel for HPE Private Cloud AI, equipping sellers and partners to position private AI infrastructure with enterprise buyers.',
+      'Build and present live product demos at NVIDIA GTC and other industry events.',
+      'Co-presented HPE and Equinix at AI Infrastructure Field Day 6 with Elias Alagna and Jason Lee, introducing a framework for AI tokenomics: make every token count, pay less per token, and govern every token.',
+      'Authored "Stop counting tokens, start counting what ships" in MIT Technology Review, on measuring agentic AI by what reaches production rather than by token spend.'
     ]
   }
 ];
